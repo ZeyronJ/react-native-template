@@ -11,10 +11,12 @@
   "dependencies": {
     "expo": "~51.0.6",
     "expo-constants": "~16.0.1",
+    "expo-file-system": "~17.0.1",
     "expo-linking": "~6.3.1",
     "expo-router": "~3.5.12",
+    "expo-sqlite": "~14.0.3",
     "expo-status-bar": "~1.12.1",
-    "nativewind": "^4.0.1",
+    "nativewind": "^4.0.36",
     "react": "18.2.0",
     "react-native": "0.74.1",
     "react-native-reanimated": "^3.10.1",
